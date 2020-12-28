@@ -1,2 +1,2 @@
-# firebase-xample
-Xample using Firebase
+# firebase-boilerplate
+Firebase boilerplate.
