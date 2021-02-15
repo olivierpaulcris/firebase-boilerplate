@@ -1,2 +1,2 @@
-# firebase-boilerplate
-Firebase boilerplate.
+# firebase-cloud-messages-boilerplate
+Firebase Cloud Messages boilerplate.
